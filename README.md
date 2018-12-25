@@ -2,7 +2,7 @@
 TODO: order the stuff in this readme chronologically
 
 ## palette_stuff
-Date: 2017-12-{16,17}
+Date: 2017-12-{16,17}  
 Deps: python, pillow, numpy
 
 These scripts seem to do operations with a "palette" of colours.
@@ -28,7 +28,7 @@ A reduced version of pal.txt, made with reduce.py
 
 
 ## sketch_6666666
-Date: 2017-07-16
+Date: 2017-07-16  
 Deps: Processing
 
 A processing sketch that was used to make these gifs:
@@ -40,7 +40,7 @@ I don't really remember the premise of the joke at this time, but I'm sure it wa
 
 
 ## wallpaper
-Date: 2017-04-20, 2017-05-21
+Date: 2017-04-20, 2017-05-21  
 Deps: Processing
 
 Matrix-esqe Arch wallpaper, and a script that modifies it to add a couple lines from [Haywyre's Endlessly](http://www.youtube.com/watch?v=MV9-VMLsNCI).
