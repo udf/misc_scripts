@@ -22,7 +22,7 @@ A Floyd-Steinberg dithering implementation using the provided palette of colours
 ### pal.txt
 A large palette extracted from VA-11 Hall-A (at least that's what I think, looking at the colours)
 
-## reduced.txt
+### reduced.txt
 A reduced version of pal.txt, made with reduce.py
 
 
