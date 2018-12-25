@@ -1,5 +1,4 @@
 # Misc. Scripts
-TODO: order the stuff in this readme chronologically
 
 ## palette_stuff
 Date: 2017-12-{16,17}  
