@@ -45,4 +45,6 @@ Deps: Processing
 
 Matrix-esqe Arch wallpaper, and a script that modifies it to add a couple lines from [Haywyre's Endlessly](http://www.youtube.com/watch?v=MV9-VMLsNCI).
 
+![wallpaper](https://github.com/udf/misc_scripts/raw/master/wallpaper/modifyWallpaper/data/wallpaper.png)
+
 I still use this wallpaper at the time of writing this, however I always thought that I had lost the code.
