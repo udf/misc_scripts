@@ -2,6 +2,7 @@
 
 
 ## palette_stuff
+Date: 2017-12-{16,17}
 Deps: python, pillow, numpy
 
 These scripts seem to do operations with a "palette" of colours.
@@ -27,6 +28,9 @@ A reduced version of pal.txt, made with reduce.py
 
 
 ## sketch_6666666
+Date: 2017-07-16
+Deps: Processing
+
 A processing sketch that was used to make these gifs:
 
 ![666](https://user-images.githubusercontent.com/13610073/50427128-60055180-08a8-11e9-83ae-ba2ebe222f1e.gif)
