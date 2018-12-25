@@ -24,3 +24,12 @@ A large palette extracted from VA-11 Hall-A (at least that's what I think, looki
 
 ## reduced.txt
 A reduced version of pal.txt, made with reduce.py
+
+
+## sketch_6666666
+A processing sketch that was used to make these gifs:
+
+![666](https://user-images.githubusercontent.com/13610073/50427128-60055180-08a8-11e9-83ae-ba2ebe222f1e.gif)
+![666](https://user-images.githubusercontent.com/13610073/50427131-685d8c80-08a8-11e9-92db-aac9a5716c82.gif)
+
+I don't really remember the premise of the joke at this time, but I'm sure it was incredibly humorous.
