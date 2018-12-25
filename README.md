@@ -67,3 +67,7 @@ Plots the UTF-8 validity of random byte arrays of length X.
 ### urandom_dist.py
 Plots the distribution of os.urandom (which is used to generate the bytes in the above script).
 ![urandom_dist](https://user-images.githubusercontent.com/13610073/50427296-bc6a7000-08ac-11e9-99c7-19da62dc0e8c.png)
+
+
+## xkcd1525
+A [xkcd 1525](https://xkcd.com/1525) (emoji 8-ball) question/answer url generator.
