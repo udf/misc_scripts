@@ -48,3 +48,9 @@ Matrix-esqe Arch wallpaper, and a script that modifies it to add a couple lines 
 ![wallpaper](https://github.com/udf/misc_scripts/raw/master/wallpaper/modifyWallpaper/data/wallpaper.png)
 
 I still use this wallpaper at the time of writing this, however I always thought that I had lost the code.
+
+## recaudman
+Date: 2018-06-15  
+Deps: g++, alsa
+
+A C++ program that prints out [Recaman's sequence](https://oeis.org/A005132) as charactes (so, only the rightmost byte). The purpose was to pipe its output to `aplay` to see what the sequence sounds like (spoiler: it's horrible)
