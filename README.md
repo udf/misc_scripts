@@ -37,3 +37,12 @@ A processing sketch that was used to make these gifs:
 ![666](https://user-images.githubusercontent.com/13610073/50427131-685d8c80-08a8-11e9-92db-aac9a5716c82.gif)
 
 I don't really remember the premise of the joke at this time, but I'm sure it was incredibly humorous.
+
+
+## wallpaper
+Date: 2017-04-20, 2017-05-21
+Deps: Processing
+
+Matrix-esqe Arch wallpaper, and a script that modifies it to add a couple lines from [Haywyre's Endlessly](http://www.youtube.com/watch?v=MV9-VMLsNCI).
+
+I still use this wallpaper at the time of writing this, however I always thought that I had lost the code.
