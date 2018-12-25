@@ -54,3 +54,16 @@ Date: 2018-06-15
 Deps: g++, alsa
 
 A C++ program that prints out [Recaman's sequence](https://oeis.org/A005132) as charactes (so, only the rightmost byte). The purpose was to pipe its output to `aplay` to see what the sequence sounds like (spoiler: it's horrible)
+
+
+## utf8-plot
+Date: 2018-04-13  
+Deps: python, matplotlib
+
+### utf8_err.py
+Plots the UTF-8 validity of random byte arrays of length X.
+![utf8_err](https://user-images.githubusercontent.com/13610073/50427294-baa0ac80-08ac-11e9-8015-6289ab050177.png)
+
+### urandom_dist.py
+Plots the distribution of os.urandom (which is used to generate the bytes in the above script).
+![urandom_dist](https://user-images.githubusercontent.com/13610073/50427296-bc6a7000-08ac-11e9-99c7-19da62dc0e8c.png)
