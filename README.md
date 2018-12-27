@@ -74,3 +74,14 @@ Date: 2018-07-08
 Deps: python
 
 A [xkcd 1525](https://xkcd.com/1525) (emoji 8-ball) question/answer url generator.
+
+
+## sort_by_exif_model
+Date: 2018-12-27  
+Deps: python
+
+Given lots of jpeg files in the `in` directory, move those with model EXIF data to `./devs/<model>/<parent dir>/image.jpg`.
+
+Used to sort out lots of scattered holiday pictures where the models of the cameras were not known.
+
+Note: the `rsync` command used to grab all the jpg files from a drive was `sudo rsync --info=progress2 -rvh --include '*/' --include '*.JPG' --include '*.JPEG' --include '*.jpg' --include '*.jpeg' --exclude '*' --prune-empty-dirs /mnt/whatever/ ./jpgs/in/drive_whatever`
