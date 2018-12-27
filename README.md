@@ -70,4 +70,7 @@ Plots the distribution of os.urandom (which is used to generate the bytes in the
 
 
 ## xkcd1525
+Date: 2018-07-08  
+Deps: python
+
 A [xkcd 1525](https://xkcd.com/1525) (emoji 8-ball) question/answer url generator.
