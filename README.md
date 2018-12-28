@@ -96,3 +96,5 @@ Deps: Python, pillow, pyuserinput
 Attempts to make a line drawing from an input 1-bit image.
 
 Used for [this shitpost](https://giant.gfycat.com/VastAmusedAfricanharrierhawk.webm) (NSFW, gfycat because I can't get it into a reasonably sized gif)
+
+(the site is http://seoi.net/penint, also NSFW)
