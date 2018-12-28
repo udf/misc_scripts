@@ -1,4 +1,6 @@
 # Misc. Scripts
+It goes without saying that none of the code here is my best work.  
+Pull requests and issues about the code won't be accepted (anything about this README is fine).
 
 ## palette_stuff
 Date: 2017-12-{16,17}  
