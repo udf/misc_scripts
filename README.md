@@ -87,3 +87,12 @@ Given lots of jpeg files in the `in` directory, move those with model EXIF data 
 Used to sort out lots of scattered holiday pictures where the models of the cameras were not known.
 
 Note: the `rsync` command used to grab all the jpg files from a drive was `sudo rsync --info=progress2 -rvh --include '*/' --include '*.JPG' --include '*.JPEG' --include '*.jpg' --include '*.jpeg' --exclude '*' --prune-empty-dirs /mnt/whatever/ ./jpgs/in/drive_whatever`
+
+
+## line_drawer
+Date: 2018-12-29  
+Deps: Python, pillow, pyuserinput
+
+Attempts to make a line drawing from an input 1-bit image.
+
+Used for [this shitpost](https://giant.gfycat.com/VastAmusedAfricanharrierhawk.webm) (NSFW, gfycat because I can't get it into a reasonably sized gif)
