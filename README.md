@@ -98,3 +98,10 @@ Attempts to make a line drawing from an input 1-bit image.
 Used for [this shitpost](https://giant.gfycat.com/VastAmusedAfricanharrierhawk.webm) (NSFW, gfycat because I can't get it into a reasonably sized gif)
 
 (the site is http://seoi.net/penint, also NSFW)
+
+
+## git_remote_https_to_ssh
+Date: 2018-11-25 
+Deps: Python
+
+Recursively finds all git repositories in the working directory and replaces https remote urls with ssh
