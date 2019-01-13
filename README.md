@@ -105,3 +105,10 @@ Date: 2018-11-25
 Deps: Python
 
 Recursively finds all git repositories in the working directory and replaces https remote urls with ssh
+
+## rainbow
+Date: 2018-06-04 
+Deps: gcc with C++ 17 support
+
+Uses 256-bit ANSI colour codes to make the input text display as a rainbow (a
+hue sweep across the whole string)
