@@ -101,14 +101,30 @@ Used for [this shitpost](https://giant.gfycat.com/VastAmusedAfricanharrierhawk.w
 
 
 ## git_remote_https_to_ssh
-Date: 2018-11-25 
+Date: 2018-11-25  
 Deps: Python
 
 Recursively finds all git repositories in the working directory and replaces https remote urls with ssh
 
+
 ## rainbow
-Date: 2018-06-04 
+Date: 2018-06-04  
 Deps: gcc with C++ 17 support
 
 Uses 256-bit ANSI colour codes to make the input text display as a rainbow (a
 hue sweep across the whole string)
+
+
+## gimp-lqr-scriptfu-gen
+Date: 2018-02-13  
+Deps: Python, GIMP with liquid rescale plugin (gimp-plugin-lqr on Arch)
+
+Generates a script-fu that uses liquid rescale on each file in a folder to
+downscale them 2x, which can be run with gimp -b '{scriptfu here}'. Used to make
+these sticker packs:
+
+- https://telegram.me/addstickers/distortedmenherachan_by_kateslavebot
+- https://telegram.me/addstickers/distortedgirlmomo_by_kateslavebot
+
+A Telegram bot to automatically make distorted sticker packs is on my
+backburner, but will likely never be made.
