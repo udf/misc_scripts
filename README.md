@@ -150,3 +150,12 @@ these sticker packs:
 
 A Telegram bot to automatically make distorted sticker packs is on my
 backburner, but will likely never be made.
+
+
+## inheritance_graph
+Date: 2019-05-14
+Deps: Python, networkx, matplotlib, [Telethon]
+
+Draws a graph of class inheritance.
+
+Used to make the graphs [here](https://t.me/VSchat/113393)
