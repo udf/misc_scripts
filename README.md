@@ -159,3 +159,10 @@ Deps: Python, networkx, matplotlib, [Telethon]
 Draws a graph of class inheritance.
 
 Used to make the graphs [here](https://t.me/VSchat/113393)
+
+
+## braille2img
+Date 2021-07-12
+Deps: Python, Pillow
+
+Converts braille to a black and white image.
